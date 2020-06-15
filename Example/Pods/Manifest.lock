@@ -1,0 +1,16 @@
+PODS:
+  - ElementProject (0.1.0)
+
+DEPENDENCIES:
+  - ElementProject (from `../`)
+
+EXTERNAL SOURCES:
+  ElementProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ElementProject: ee16529c3b855d157d6610ff170b2e71df88844c
+
+PODFILE CHECKSUM: 0f1c0ed715f4133c127b14c39e650edbcd634eaf
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module ElementProject {
+  umbrella header "ElementProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

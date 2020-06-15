@@ -24,7 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/hanLemon/ElementProject'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'hanLemon' => 'm13280907363@163.com' }
+#  s.author           = { 'hanLemon' => 'm13280907363@163.com' }
+  s.author           = { 'hanhfPods' => 'han_zero@163.com' }
   s.source           = { :git => 'https://github.com/hanLemon/ElementProject.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
