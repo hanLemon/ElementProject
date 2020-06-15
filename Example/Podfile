@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ElementProject_Tests' do
+  pod 'ElementProject', :path => '../'
+  
+  
+end
